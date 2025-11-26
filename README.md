@@ -20,12 +20,3 @@ I design and build scalable backend systems with a focus on **Microservices Arch
 
 ---
 
-  * **Stack:** Python, FastAPI, Railway, Docker
-
----
-
-<p align="left">
-  <a href="https://github.com/jeremiahmadronio?tab=followers">
-    <img src="https://img.shields.io/github/followers/jeremiahmadronio?label=Followers&style=social" alt="Followers" />
-  </a>
-</p>
