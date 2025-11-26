@@ -1,41 +1,34 @@
-# Hi there, I'm Jeremiah! 👋
-### Backend Software Engineer | Java & Spring Boot Developer
+# Hi, I'm Jeremiah.
 
-I specialize in building scalable enterprise applications, RESTful APIs, and microservices using the Spring ecosystem. I focus on clean architecture and efficient database design.
+### Backend Software Engineer | Java Spring Boot & Python
+**Capable in Full-Stack Development (React + TypeScript)**
 
----
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+I design and build scalable backend systems with a focus on **Microservices Architecture**, **RESTful APIs**, and efficient **Database Design**. I can also bridge the gap to the frontend using modern web technologies.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <a href="https://github.com/jeremiahmadronio">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeremiahmadronio&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Jeremiah's Stats" />
-  </a>
-  <a href="https://github.com/jeremiahmadronio">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiahmadronio&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+### 💻 Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Architecture** | <kbd>Microservices</kbd> <kbd>RESTful APIs</kbd> <kbd>Clean Architecture</kbd> |
+
+---
+
+### 🚀 Key Projects
+
+- **[DA Price Index Service](https://github.com/jeremiahmadronio/fastapi-webscraping-service)** *Automated data extraction pipeline for government price monitoring.*
+  * **Stack:** Python, FastAPI, Railway, Docker
+
+---
 
 <p align="left">
   <a href="https://github.com/jeremiahmadronio?tab=followers">
     <img src="https://img.shields.io/github/followers/jeremiahmadronio?label=Followers&style=social" alt="Followers" />
   </a>
 </p>
-
----
-
-### 🚀 Key Projects
-- **[DA Price Index Scraper](https://github.com/jeremiahmadronio/fastapi-webscraping-service)**: A Python/FastAPI microservice for parsing government PDF data. *(Note: Currently porting to Java/Spring Boot microservices architecture).*
